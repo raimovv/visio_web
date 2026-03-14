@@ -23,8 +23,9 @@ export default function HomePage() {
           <p className="eyebrow">Visio</p>
           <h1>Download the latest Visio installer.</h1>
           <p className="hero__copy">
-            A focused landing page for the first release. Open the installer,
-            run setup, and get into the product without extra friction.
+            Visio is a Windows-first desktop app for reducing eye strain during screen work. 
+            It runs locally on your machine, uses your webcam for blink and face tracking, 
+            reminds you to blink when you stare too long, and supports a practical 20-20-20 break workflow.
           </p>
 
           <div className="hero__actions">
