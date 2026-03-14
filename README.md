@@ -16,5 +16,3 @@ The installer is served from:
 The landing page is implemented in:
 
 - `app/page.tsx`
-
-_Hobby project_
